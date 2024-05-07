@@ -179,7 +179,7 @@ function promiseAll(promises) {
   
   promisedFunction(3)
     .then((result) => {
-      console.log("Promised function result:", result); // Expected: 6
+      console.log("Promised function result:", result); // Expected output: "Promised function result: 6"
     })
     .catch((error) => {
       console.error("Promised function error:", error);

@@ -4,7 +4,7 @@ Here is my submission for Homework 7 for the Node.js Course. Enclosed is the Git
 
 GitHub Repository: https://github.com/andresListorti/solvdHomework-7
 
-I look forward to your feedback,
+I look forward to your feedback
 
 Thank you very much.
 
